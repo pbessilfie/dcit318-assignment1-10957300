@@ -1,0 +1,15 @@
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\L300 SECOND SEM\DCIT 318 PROGRAMMING II\dcit318-assignment-10958661\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

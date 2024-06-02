@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L300 SECOND SEM\\DCIT 318 PROGRAMMING II\\dcit318-assignment-10958661\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C828C3B-E908-4B2D-A240-74838A4CAADC}|ConsoleApp1\\ConsoleApp1.csproj|d:\\l300 second sem\\dcit 318 programming ii\\dcit318-assignment-10958661\\consoleapp1\\consoleapp1\\triangletypeidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C828C3B-E908-4B2D-A240-74838A4CAADC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\triangletypeidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TriangleTypeIdentifier.cs",
+              "DocumentMoniker": "D:\\L300 SECOND SEM\\DCIT 318 PROGRAMMING II\\dcit318-assignment-10958661\\ConsoleApp1\\ConsoleApp1\\TriangleTypeIdentifier.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TriangleTypeIdentifier.cs",
+              "ToolTip": "D:\\L300 SECOND SEM\\DCIT 318 PROGRAMMING II\\dcit318-assignment-10958661\\ConsoleApp1\\ConsoleApp1\\TriangleTypeIdentifier.cs",
+              "RelativeToolTip": "ConsoleApp1\\TriangleTypeIdentifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:18:34.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
